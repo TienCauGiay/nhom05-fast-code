@@ -1,0 +1,14 @@
+F:\MISA\nhom05-fast-code\aspnetcore\Nhom05_Api\Nhom05_Core\bin\Debug\net6.0\Nhom05_Core.deps.json
+F:\MISA\nhom05-fast-code\aspnetcore\Nhom05_Api\Nhom05_Core\bin\Debug\net6.0\Nhom05_Core.dll
+F:\MISA\nhom05-fast-code\aspnetcore\Nhom05_Api\Nhom05_Core\bin\Debug\net6.0\Nhom05_Core.pdb
+F:\MISA\nhom05-fast-code\aspnetcore\Nhom05_Api\Nhom05_Core\obj\Debug\net6.0\Nhom05_Core.csproj.AssemblyReference.cache
+F:\MISA\nhom05-fast-code\aspnetcore\Nhom05_Api\Nhom05_Core\obj\Debug\net6.0\Nhom05_Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\MISA\nhom05-fast-code\aspnetcore\Nhom05_Api\Nhom05_Core\obj\Debug\net6.0\Nhom05_Core.AssemblyInfoInputs.cache
+F:\MISA\nhom05-fast-code\aspnetcore\Nhom05_Api\Nhom05_Core\obj\Debug\net6.0\Nhom05_Core.AssemblyInfo.cs
+F:\MISA\nhom05-fast-code\aspnetcore\Nhom05_Api\Nhom05_Core\obj\Debug\net6.0\Nhom05_Core.csproj.CoreCompileInputs.cache
+F:\MISA\nhom05-fast-code\aspnetcore\Nhom05_Api\Nhom05_Core\obj\Debug\net6.0\Nhom05_Core.dll
+F:\MISA\nhom05-fast-code\aspnetcore\Nhom05_Api\Nhom05_Core\obj\Debug\net6.0\refint\Nhom05_Core.dll
+F:\MISA\nhom05-fast-code\aspnetcore\Nhom05_Api\Nhom05_Core\obj\Debug\net6.0\Nhom05_Core.pdb
+F:\MISA\nhom05-fast-code\aspnetcore\Nhom05_Api\Nhom05_Core\obj\Debug\net6.0\ref\Nhom05_Core.dll
+F:\MISA\nhom05-fast-code\aspnetcore\Nhom05_Api\Nhom05_Core\obj\Debug\net6.0\Nhom05_Core.Resources.ResourceVN.resources
+F:\MISA\nhom05-fast-code\aspnetcore\Nhom05_Api\Nhom05_Core\obj\Debug\net6.0\Nhom05_Core.csproj.GenerateResource.cache

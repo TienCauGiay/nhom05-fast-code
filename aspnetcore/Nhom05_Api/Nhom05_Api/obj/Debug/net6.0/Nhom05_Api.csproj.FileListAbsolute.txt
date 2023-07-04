@@ -30,3 +30,10 @@ F:\MISA\nhom05-fast-code\aspnetcore\Nhom05_Api\Nhom05_Api\obj\Debug\net6.0\refin
 F:\MISA\nhom05-fast-code\aspnetcore\Nhom05_Api\Nhom05_Api\obj\Debug\net6.0\Nhom05_Api.pdb
 F:\MISA\nhom05-fast-code\aspnetcore\Nhom05_Api\Nhom05_Api\obj\Debug\net6.0\Nhom05_Api.genruntimeconfig.cache
 F:\MISA\nhom05-fast-code\aspnetcore\Nhom05_Api\Nhom05_Api\obj\Debug\net6.0\ref\Nhom05_Api.dll
+F:\MISA\nhom05-fast-code\aspnetcore\Nhom05_Api\Nhom05_Api\bin\Debug\net6.0\Dapper.dll
+F:\MISA\nhom05-fast-code\aspnetcore\Nhom05_Api\Nhom05_Api\bin\Debug\net6.0\MySqlConnector.dll
+F:\MISA\nhom05-fast-code\aspnetcore\Nhom05_Api\Nhom05_Api\bin\Debug\net6.0\Nhom05_Core.dll
+F:\MISA\nhom05-fast-code\aspnetcore\Nhom05_Api\Nhom05_Api\bin\Debug\net6.0\Nhom05_Infrastructure.dll
+F:\MISA\nhom05-fast-code\aspnetcore\Nhom05_Api\Nhom05_Api\bin\Debug\net6.0\Nhom05_Core.pdb
+F:\MISA\nhom05-fast-code\aspnetcore\Nhom05_Api\Nhom05_Api\bin\Debug\net6.0\Nhom05_Infrastructure.pdb
+F:\MISA\nhom05-fast-code\aspnetcore\Nhom05_Api\Nhom05_Api\bin\Debug\net6.0\AutoMapper.dll

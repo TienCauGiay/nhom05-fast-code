@@ -1,0 +1,15 @@
+F:\MISA\nhom05-fast-code\aspnetcore\Nhom05_Api\Nhom05_Infrastructure\bin\Debug\net6.0\Nhom05_Infrastructure.deps.json
+F:\MISA\nhom05-fast-code\aspnetcore\Nhom05_Api\Nhom05_Infrastructure\bin\Debug\net6.0\Nhom05_Infrastructure.dll
+F:\MISA\nhom05-fast-code\aspnetcore\Nhom05_Api\Nhom05_Infrastructure\bin\Debug\net6.0\Nhom05_Infrastructure.pdb
+F:\MISA\nhom05-fast-code\aspnetcore\Nhom05_Api\Nhom05_Infrastructure\bin\Debug\net6.0\Nhom05_Core.dll
+F:\MISA\nhom05-fast-code\aspnetcore\Nhom05_Api\Nhom05_Infrastructure\bin\Debug\net6.0\Nhom05_Core.pdb
+F:\MISA\nhom05-fast-code\aspnetcore\Nhom05_Api\Nhom05_Infrastructure\obj\Debug\net6.0\Nhom05_Infrastructure.csproj.AssemblyReference.cache
+F:\MISA\nhom05-fast-code\aspnetcore\Nhom05_Api\Nhom05_Infrastructure\obj\Debug\net6.0\Nhom05_Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\MISA\nhom05-fast-code\aspnetcore\Nhom05_Api\Nhom05_Infrastructure\obj\Debug\net6.0\Nhom05_Infrastructure.AssemblyInfoInputs.cache
+F:\MISA\nhom05-fast-code\aspnetcore\Nhom05_Api\Nhom05_Infrastructure\obj\Debug\net6.0\Nhom05_Infrastructure.AssemblyInfo.cs
+F:\MISA\nhom05-fast-code\aspnetcore\Nhom05_Api\Nhom05_Infrastructure\obj\Debug\net6.0\Nhom05_Infrastructure.csproj.CoreCompileInputs.cache
+F:\MISA\nhom05-fast-code\aspnetcore\Nhom05_Api\Nhom05_Infrastructure\obj\Debug\net6.0\Nhom05_Infrastructure.csproj.CopyComplete
+F:\MISA\nhom05-fast-code\aspnetcore\Nhom05_Api\Nhom05_Infrastructure\obj\Debug\net6.0\Nhom05_Infrastructure.dll
+F:\MISA\nhom05-fast-code\aspnetcore\Nhom05_Api\Nhom05_Infrastructure\obj\Debug\net6.0\refint\Nhom05_Infrastructure.dll
+F:\MISA\nhom05-fast-code\aspnetcore\Nhom05_Api\Nhom05_Infrastructure\obj\Debug\net6.0\Nhom05_Infrastructure.pdb
+F:\MISA\nhom05-fast-code\aspnetcore\Nhom05_Api\Nhom05_Infrastructure\obj\Debug\net6.0\ref\Nhom05_Infrastructure.dll

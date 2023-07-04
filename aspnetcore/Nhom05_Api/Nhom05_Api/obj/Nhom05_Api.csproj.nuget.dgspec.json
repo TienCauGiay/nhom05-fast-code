@@ -27,7 +27,14 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "F:\\MISA\\nhom05-fast-code\\aspnetcore\\Nhom05_Api\\Nhom05_Core\\Nhom05_Core.csproj": {
+                "projectPath": "F:\\MISA\\nhom05-fast-code\\aspnetcore\\Nhom05_Api\\Nhom05_Core\\Nhom05_Core.csproj"
+              },
+              "F:\\MISA\\nhom05-fast-code\\aspnetcore\\Nhom05_Api\\Nhom05_Infrastructure\\Nhom05_Infrastructure.csproj": {
+                "projectPath": "F:\\MISA\\nhom05-fast-code\\aspnetcore\\Nhom05_Api\\Nhom05_Infrastructure\\Nhom05_Infrastructure.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -60,6 +67,148 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\MISA\\nhom05-fast-code\\aspnetcore\\Nhom05_Api\\Nhom05_Core\\Nhom05_Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\MISA\\nhom05-fast-code\\aspnetcore\\Nhom05_Api\\Nhom05_Core\\Nhom05_Core.csproj",
+        "projectName": "Nhom05_Core",
+        "projectPath": "F:\\MISA\\nhom05-fast-code\\aspnetcore\\Nhom05_Api\\Nhom05_Core\\Nhom05_Core.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "F:\\MISA\\nhom05-fast-code\\aspnetcore\\Nhom05_Api\\Nhom05_Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\MISA\\nhom05-fast-code\\aspnetcore\\Nhom05_Api\\Nhom05_Infrastructure\\Nhom05_Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\MISA\\nhom05-fast-code\\aspnetcore\\Nhom05_Api\\Nhom05_Infrastructure\\Nhom05_Infrastructure.csproj",
+        "projectName": "Nhom05_Infrastructure",
+        "projectPath": "F:\\MISA\\nhom05-fast-code\\aspnetcore\\Nhom05_Api\\Nhom05_Infrastructure\\Nhom05_Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "F:\\MISA\\nhom05-fast-code\\aspnetcore\\Nhom05_Api\\Nhom05_Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\MISA\\nhom05-fast-code\\aspnetcore\\Nhom05_Api\\Nhom05_Core\\Nhom05_Core.csproj": {
+                "projectPath": "F:\\MISA\\nhom05-fast-code\\aspnetcore\\Nhom05_Api\\Nhom05_Core\\Nhom05_Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.143, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
