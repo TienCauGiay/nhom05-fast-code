@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Nhom05_Api.props" />
+</Project>
